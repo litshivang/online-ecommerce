@@ -1,4 +1,3 @@
-markdown
 # Online Marketplace API
 
 This project is an online marketplace API built using Django and Django Rest Framework. It allows users to buy and sell products, manage user accounts, and track purchases.
