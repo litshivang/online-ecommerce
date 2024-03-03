@@ -12,7 +12,7 @@ This project is an online marketplace API built using Django and Django Rest Fra
 - Python 3.8+
 - Django 4.2+
 - Django Rest Framework 3.14+
-- Pillow 10.2+ (for image upload)
+- Pillow 10.2+
 
 ## Setup
 1. Clone the repository:
